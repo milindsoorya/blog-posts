@@ -63,6 +63,16 @@ df =  pd.read_csv("./mushrooms.csv")
 
 Pandas `read_csv()` function imports a CSV file (in our case, ‘mushrooms.csv’) to DataFrame format.
 
+
+## Import modules
+```python
+import pandas as pd
+import numpy as np
+import os 
+import matplotlib.pyplot as plt
+import seaborn as sns
+```
+
 ## Examining the Data
 
 🎈 - To get an overview of the dataset we can use the `.describe()` method
