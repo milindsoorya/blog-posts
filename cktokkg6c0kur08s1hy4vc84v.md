@@ -81,6 +81,6 @@ conda info --envs
 
 That's it, thanks for reading, if you have some code to share please share in the comment section I will add it to the above list.
 
-Don't forget  to bookmark this page for future reference 🐱‍👤
+Don't forget to bookmark this page for future reference 🐱‍👤
 
 
