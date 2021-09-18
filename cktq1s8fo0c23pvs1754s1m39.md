@@ -1,4 +1,4 @@
-## CSS to ignore parent padding in 3 lines
+## CSS to ignore parent padding in 4 lines
 
 ## Introduction
 
@@ -18,6 +18,9 @@ Give this below piece of CSS to the element you wish to break out(pun Intended).
   width: 100vw;
   margin-left: 50%;
   transform: translateX(-50%);
+  max-width: 100%;
 }
 ```
+The `max-width` is required because otherwise, you may find a horizontal scrollbar.
+
 yeah, It's that simple.
