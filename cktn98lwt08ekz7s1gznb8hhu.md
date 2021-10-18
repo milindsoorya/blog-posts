@@ -359,6 +359,8 @@ As a next step, I will do the same problem using Convoluted Neural Network(CNN),
 
 Thanks again for reading, have a nice day.
 
+💡 UPDATE : [Mnist handwritten digit classification using CNN](https://milindsoorya.site/blog/handwritten-digit-classification-using-cnn)
+
 ## Related articles
 - [How to build a Spam Classifier with 6 classifiers in python and sklearn](https://milindsoorya.site/blog/build-a-spam-classifier-in-python)
 - [Introduction to Word Frequency in NLP using python](https://milindsoorya.site/blog/introduction-to-word-frequencies-in-nlp)
