@@ -2,7 +2,7 @@
 
 # Introduction
 
-Hey all, this is part 2 on how to convert your website into a PWA. If you want to know how PWA works check out the part 1, [Introduction to PWA](https://milindsoorya.site/blog/introduction-to-pwa-next-js-pwa-series-part-1).
+Hey all, this is part 2 on how to convert your website into a PWA. If you want to know how PWA works check out the part 1, [Introduction to PWA](https://milindsoorya.com/blog/introduction-to-pwa-next-js-pwa-series-part-1).
 
 
 > I highly recommend reading this article once completely before doing a hands-own.
@@ -169,7 +169,7 @@ npm run build
 npm start
 ```
 
-Now go to your [localhost:3000](http://localhost:3000) and  You will see something like this. Install the website and you can use it like any native app. If you want to know how a PWA will look in a mobile device checkout my website [milindsoorya.site](https://milindsoorya.site/) from your mobile browser and try installing it.
+Now go to your [localhost:3000](http://localhost:3000) and  You will see something like this. Install the website and you can use it like any native app. If you want to know how a PWA will look in a mobile device checkout my website [milindsoorya.com](https://milindsoorya.com/) from your mobile browser and try installing it.
 
 
 ![pwa-final.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1621939990091/Tz-tdKLcJ.jpeg)
