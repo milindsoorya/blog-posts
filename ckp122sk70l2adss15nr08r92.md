@@ -37,7 +37,7 @@ PWA allows web developers to create amazing apps without having to learn kotlin 
 6. [Pinterest](https://www.pinterest.com/)
 7. [Spotify](https://open.spotify.com/)
 
-last but not the least, my own website  [MilindSoorya](https://milindsoorya.site/) 😉.
+last but not the least, my own website  [MilindSoorya](https://milindsoorya.com/) 😉.
 
 Added benefit :- Using PWA developers don't have to give 30% of their revenue to Google or Apple as commission. 🤑
 
@@ -78,7 +78,7 @@ As the name implies it contains the local resources that your web app needs to l
 
 Workbox is the library that enables PWA creation quite easy. Building a PWA consists of creating a set of service workers and workbox basically automates that task and bakes in a set of best practices and removes the boilerplate every developer writes while creating a service worker.
 
-👉🏼 checkout my website, [milindsoorya.site](https://www.milindsoorya.site) for more updates and getting in touch. cheers.
+👉🏼 checkout my website, [milindsoorya.com](https://www.milindsoorya.com) for more updates and getting in touch. cheers.
 
 # Resources
 
